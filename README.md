@@ -27,6 +27,6 @@
 ---
 
 ## 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
+- [LinkedIn](https://www.linkedin.com/in/sakshi-gupta-904aa01aa/)  
 - [Portfolio](https://YOUR-PORTFOLIO.com)  
-- [Email](mailto:YOUR-EMAIL@gmail.com)  
+- [Email](sakshigupta200445@gmail.com)  
