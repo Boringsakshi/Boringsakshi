@@ -1,13 +1,14 @@
 # Hi there 👋, I'm Sakshi Gupta  
 
-🎓 B.Tech CSE'27 Student | 💻 Passionate about Development & Problem Solving  
+🎓 B.Tech CSE'27 Student @ ITM Gwalior  
+💻 Passionate about **Development & Problem Solving**  
 🌱 Currently learning **MERN Stack, AI, and Cloud**  
 ⚡ Exploring **DSA + Open Source Contributions**  
 
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Boringsakshi&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Boringsakshi&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -26,7 +27,11 @@
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/sakshi-gupta-904aa01aa/)  
 - [Portfolio](https://YOUR-PORTFOLIO.com)  
 - [Email](sakshigupta200445@gmail.com)  
+
+---
+
+⭐️ From [Boringsakshi](https://github.com/Boringsakshi)
