@@ -10,7 +10,7 @@ I love exploring new technologies, building projects, and continuously learning!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Boringsakshi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?username=Boringsakshi&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Boringsakshi&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Boringsakshi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
@@ -25,9 +25,10 @@ I love exploring new technologies, building projects, and continuously learning!
 
 ---
 
-# 🔗 Connect with me
+# 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakshi-gupta-904aa01aa/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sakshigupta200445@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://your-portfolio-link)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshigupta200445@gmail.com)
 
 ---
 
