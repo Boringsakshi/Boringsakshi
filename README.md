@@ -1,37 +1,46 @@
-# Hi there 👋, I'm Sakshi Gupta  
+# 💫 About Me:
+Hi there! I'm **Sakshi Gupta**, a passionate B.Tech CSE student at ITM Gwalior 👩‍💻  
+I love exploring new technologies, building projects, and continuously learning!  
 
-🎓 B.Tech CSE'27 Student @ ITM Gwalior  
-💻 Passionate about **Development & Problem Solving**  
-🌱 Currently learning **MERN Stack, AI, and Cloud**  
-⚡ Exploring **DSA + Open Source Contributions**  
-
----
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Boringsakshi&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+🌱 Currently learning **Full Stack Development & AI Integration**  
+💡 Interested in **Web Development, Open Source, and Smart Chatbots**  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sakshi-gupta-904aa01aa/) | [Email](sakshigupta200445@gmail.com)  
 
 ---
 
-## 📊 GitHub Stats
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boringsakshi&show_icons=true&theme=tokyonight)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=your-username&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Boringsakshi&theme=tokyonight)
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 💡 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boringsakshi&layout=compact&theme=tokyonight)
+# ✨ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/sakshi-gupta-904aa01aa/)  
-- [Portfolio](https://YOUR-PORTFOLIO.com)  
-- [Email](sakshigupta200445@gmail.com)  
+# 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakshi-gupta-904aa01aa/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sakshigupta200445@gmail.com)
 
 ---
 
-⭐️ From [Boringsakshi](https://github.com/Boringsakshi)
+### 💻 Tech Stack:
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
